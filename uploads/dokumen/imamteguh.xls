@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset="UTF-8">
+  	<title>Laporan Kegiatan</title>
+  	<meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+  	<style type="text/css">
+    body {
+      font-size: 12px;
+    }
+    .h1 {
+      font-size: 28px;
+      font-weight: bold;
+      padding: 0;
+      margin: 0;
+    }
+    .h3 {
+      font-size: 16px;
+      font-weight: bold;
+      padding: 0;
+      margin: 0;
+    }
+  	</style>
+  </head>
+  <body>
+  	<span class="h1">Laporan Kegiatan Tanggal 2015-06-29 sampai 2015-07-03</span><br>
+    <span class="h3">Kantor Komunikasi Dan Informatika Kota Bogor</span>
+    <br>
+  	<table width="1200" border="1">
+  		<tr style='background:#cfcfcf'>
+  			<th>No</th>
+        <th width="150px">Waktu</th>
+        <th>Kategori Pekerjaan</th>
+        <th>Detail Pekerjaan</th>
+        <th>Keterangan</th>
+  		</tr>
+  		<tr style='background:transparent' >              <td>1</td>
+              <td>
+              Senin, 29 Juni 2015 08:24:03              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Pembuatan Aplikasi dengan Pengkodean Menggunakan Bahasa Pemprograman Tertentu</td>
+              <td>Membuat tampilan halaman login aplikasi SIL dan fungsi login ke administrator</td>
+              </tr><tr style='background:#cfcfcf' >              <td>2</td>
+              <td>
+              Senin, 29 Juni 2015 10:26:03              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat modul data pengujian air sumur di SIL dan membuat fungsi menampilakan data pengujian air sumur</td>
+              </tr><tr style='background:transparent' >              <td>3</td>
+              <td>
+              Senin, 29 Juni 2015 12:28:01              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Membuat Desain Tampilan dan Fasilitas Aplikasi</td>
+              <td>Merubah tampilan halaman administrator SIL untuk mempermudah pemakaian</td>
+              </tr><tr style='background:#cfcfcf' >              <td>4</td>
+              <td>
+              Senin, 29 Juni 2015 14:29:03              </td>
+              <td>Pengembangan Wawasan</td>
+              <td>Mencari Referansi atau Contoh Program dari Internet atau Buku</td>
+              <td>Mencari referensi coding javascript ajax load</td>
+              </tr><tr style='background:transparent' >              <td>5</td>
+              <td>
+              Selasa, 30 Juni 2015 08:30:02              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat modul pengujian air sungai di SIL dan membuat fungsi menampilkan data pengujian air sungai</td>
+              </tr><tr style='background:#cfcfcf' >              <td>6</td>
+              <td>
+              Selasa, 30 Juni 2015 10:32:02              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat halaman penambahan data pengujian air sungai di administrator SIL</td>
+              </tr><tr style='background:transparent' >              <td>7</td>
+              <td>
+              Selasa, 30 Juni 2015 11:34:01              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat modul kelurahan dan kecamatan dengan fungsi ajax load</td>
+              </tr><tr style='background:#cfcfcf' >              <td>8</td>
+              <td>
+              Selasa, 30 Juni 2015 12:35:04              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat fungsi menambahkan data pengujian air sungai di administrator SIL</td>
+              </tr><tr style='background:transparent' >              <td>9</td>
+              <td>
+              Selasa, 30 Juni 2015 13:37:03              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat menu selengkapnya dan menampilkan data pengujian air sungai serta menambahkan form untuk masin masing titik kordinat</td>
+              </tr><tr style='background:#cfcfcf' >              <td>10</td>
+              <td>
+              Selasa, 30 Juni 2015 14:39:02              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat fungsi load halaman titik kordinat untuk masing - masing titik kordinat pada pengujian air sungai</td>
+              </tr><tr style='background:transparent' >              <td>11</td>
+              <td>
+              Selasa, 30 Juni 2015 15:40:05              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat fungsi penambahan data titik korditan dari hasil pengujian air sungai</td>
+              </tr><tr style='background:#cfcfcf' >              <td>12</td>
+              <td>
+              Rabu, 01 Juli 2015 09:42:00              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat modul data pengujian air situ pada administrator SIL</td>
+              </tr><tr style='background:transparent' >              <td>13</td>
+              <td>
+              Rabu, 01 Juli 2015 10:43:00              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat fungsi menampilkan data pengujian air situ di administrator SIL</td>
+              </tr><tr style='background:#cfcfcf' >              <td>14</td>
+              <td>
+              Rabu, 01 Juli 2015 11:44:01              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat halaman form penambahan data pengujian air situ dan membuat fungsi penambahan pengujian air situ</td>
+              </tr><tr style='background:transparent' >              <td>15</td>
+              <td>
+              Rabu, 01 Juli 2015 12:45:02              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat halaman menambahkan titik kordinat pengujian situ dan membuat fungsinya dengan ajax post</td>
+              </tr><tr style='background:#cfcfcf' >              <td>16</td>
+              <td>
+              Rabu, 01 Juli 2015 13:46:03              </td>
+              <td>Pembimbing PKL</td>
+              <td>Memberikan Bimbingan pada PKL dalam Melaksanakan Tugasnya</td>
+              <td>Memberikan turotial pada anak PKL dari IPB untuk membuat marker pada peta dan menyimpannya di database dengan web GIS</td>
+              </tr><tr style='background:transparent' >              <td>17</td>
+              <td>
+              Kamis, 02 Juli 2015 08:48:01              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Membuat Desain Tampilan dan Fasilitas Aplikasi</td>
+              <td>Melakukan penambahan desain dan membetulkan bugs yang ada pada template administrator SIL</td>
+              </tr><tr style='background:#cfcfcf' >              <td>18</td>
+              <td>
+              Kamis, 02 Juli 2015 09:49:03              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Menambahkan modul konservasi hutan kota pada administrator SIL</td>
+              </tr><tr style='background:transparent' >              <td>19</td>
+              <td>
+              Kamis, 02 Juli 2015 11:50:04              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat fungsi menampikan hutan kota pada administrator SIL</td>
+              </tr><tr style='background:#cfcfcf' >              <td>20</td>
+              <td>
+              Kamis, 02 Juli 2015 13:23:02              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat halaman tambah huta kota dan fungsi simpan data hutan kota dengan poligon</td>
+              </tr><tr style='background:transparent' >              <td>21</td>
+              <td>
+              Kamis, 02 Juli 2015 14:25:00              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan Penambahan Fasilitas Aplikasi</td>
+              <td>Membuat halaman new windows saat menampilkan detail data hutan kota atau gambaran hutan kota </td>
+              </tr><tr style='background:#cfcfcf' >              <td>22</td>
+              <td>
+              Jum`at, 03 Juli 2015 08:29:01              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Membuat Desain Tampilan dan Fasilitas Aplikasi</td>
+              <td>Membuat form edit hutan kota di SIL administrator dan fungsi update data</td>
+              </tr><tr style='background:transparent' >              <td>23</td>
+              <td>
+              Jum`at, 03 Juli 2015 10:38:03              </td>
+              <td>Pembuatan dan Pengembangan Aplikasi</td>
+              <td>Melakukan perubahan struktur coding untuk penyempurnaan</td>
+              <td>Merubah coding cetak surat pada sim wilayah untuk membetulkan nama kecamata dan kelurahan</td>
+              </tr><tr style='background:#cfcfcf' >              <td>24</td>
+              <td>
+              Jum`at, 03 Juli 2015 12:44:02              </td>
+              <td>Penyusunan dan Pembuatan Laporan</td>
+              <td>Mengolah Data Menjadi Laporan Lengkap</td>
+              <td>Membuat laporan kegiatan atau merekap laporan kegiatan mingguan personal</td>
+              </tr><tr style='background:transparent' >              <td>25</td>
+              <td>
+              Jum`at, 03 Juli 2015 14:20:02              </td>
+              <td>Pengembangan Wawasan</td>
+              <td>Mencari Referansi atau Contoh Program dari Internet atau Buku</td>
+              <td>Mencari referensi coding ajax javascript untuk membuat program dengan animasi</td>
+              </tr>  	</table>
+  </body>
+</html>
+<!-- copyright @ Imam Teguh -->

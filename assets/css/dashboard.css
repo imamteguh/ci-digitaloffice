@@ -1,0 +1,158 @@
+.widget-forum {
+	height: 150px;
+	margin:5px;
+	padding: 10px;
+	float: left;
+	text-align: center;
+}
+a.widget-forum:hover {
+	text-decoration: none;
+}
+
+.kategoriforum {
+	background-color: #f5f5f5;
+	padding:10px 10px 20px;
+	height: auto;
+	width: 100%;
+	border:1px solid #d4d4d4;
+}
+.kategoriforum:after {
+	clear: both;
+	content: "";
+}
+
+.icon-forum {
+	float: left;
+	margin:0px 10px;
+	padding:15px 0px;
+}
+.title-forum {
+	float: left;
+	margin: 0px 10px;
+}
+.title-forum h1 {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+.title-forum p {
+	padding: 0;
+	margin: 0;
+	width: 400px;
+}
+
+.clear-fix {
+	clear: both;
+}
+
+.breadforum {
+	border-left: 7px solid #428BCA;
+	border-right: 1px solid #d4d4d4;
+	background-color: #fff;
+	color:gray;
+	font-weight: bold;
+	padding: 10px 0px;
+}
+.listforum {
+	border-left:1px solid #d4d4d4;
+	border-right:1px solid #d4d4d4;
+	border-bottom:1px solid #d4d4d4;
+	background-color: #f8f8f8;
+	padding: 10px;
+	color: gray;
+}
+.listforum p {
+	padding: 0;
+	margin: 0;
+}
+.bread1 {
+	padding: 0;
+	margin: 0;
+	padding-left : 8px;
+	float: left;
+	width: 50%;
+}
+.bread2 {
+	padding: 0;
+	margin: 0;
+	padding-left : 0px;
+	float: left;
+	width: 20%;
+}
+.bread3 {
+	padding: 0;
+	margin: 0;
+	padding-left : 0px;
+	float: left;
+	width: 30%;
+}
+
+.kiri {
+	float: left;
+	width: 50%;
+	padding: 5px;
+	padding-right: 15px;
+}
+.tengah {
+	float: left;
+	width: 20%;
+	padding: 5px;
+}
+.kanan {
+	float: left;
+	width: 30%;
+	padding: 5px;
+}
+.kiri > .link a {
+	font-weight: bold;
+	color: #000;
+	font-size: 16px;
+}
+.listforum:hover {
+	background-color: #f0f0f0;
+}
+
+.box-forum {
+	border: 1px solid #ddd !important;
+	border-radius: none !important;
+	border-radius: 0px;
+	margin-top: 15px;
+}
+
+.box-forum-heading {
+	border-radius: 0px;
+	font-weight: bold;
+}
+
+.box-forum-kiri {
+	padding: 10px;
+	float: left;
+	width: 15%;
+}
+.box-forum-kiri > img {
+	margin: 0px auto !important;
+}
+.box-forum-kanan {
+	padding: 10px !important;
+	width: 85%;
+	float: left;
+	min-height: 170px;
+	border-left: 1px solid #ddd;
+}
+
+.komentar {
+	background: #f4f4f4;
+	border:1px solid #ccc;
+	padding: 10px;
+	margin-left:1%;
+	width: 99%;
+	font-size: 12px;
+}
+.kop-komen {
+	padding: 0;
+	margin: 0;
+	font-weight: 700;
+	font-size: 12px;
+	padding-top: 2em;
+}
